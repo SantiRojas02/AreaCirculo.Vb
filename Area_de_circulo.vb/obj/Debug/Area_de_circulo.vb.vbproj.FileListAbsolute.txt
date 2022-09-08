@@ -1,0 +1,9 @@
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\bin\Debug\Area_de_circulo.vb.exe.config
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\obj\Debug\Area_de_circulo.vb.Resources.resources
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\obj\Debug\Area_de_circulo.vb.vbproj.GenerateResource.Cache
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\bin\Debug\Area_de_circulo.vb.exe
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\bin\Debug\Area_de_circulo.vb.pdb
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\bin\Debug\Area_de_circulo.vb.xml
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\obj\Debug\Area_de_circulo.vb.exe
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\obj\Debug\Area_de_circulo.vb.xml
+D:\Facultad\Programacion\Actividad 1\AreaCirculoVb\Area_de_circulo.vb\Area_de_circulo.vb\obj\Debug\Area_de_circulo.vb.pdb
